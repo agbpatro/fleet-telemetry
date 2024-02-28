@@ -41,7 +41,6 @@
         "V": [
             "kafka",
             "kinesis",
-            "pubsub",
             "logger",
             "zmq"
         ]

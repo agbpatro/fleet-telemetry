@@ -1,0 +1,22 @@
+{
+    "alert_types": [
+        "service"
+    ],
+    "ca": "-----BEGIN CERTIFICATE-----\nMIIDNjCCAh6gAwIBAgIQeAVpNJ4r+uGLGM8NBdhjUjANBgkqhkiG9w0BAQsFADA1\nMRAwDgYDVQQKEwdUZXN0IENvMSEwHwYDVQQDExhUZXNsYSBNb3RvcnMgUHJvZHVj\ndHMgQ0EwHhcNMjQwMjE0MDA1MjE0WhcNMjUwMjEzMDA1MjE0WjA1MRAwDgYDVQQK\nEwdUZXN0IENvMSEwHwYDVQQDExhUZXNsYSBNb3RvcnMgUHJvZHVjdHMgQ0EwggEi\nMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCn0zR9o9oVdqK+G9uXXepJsYrq\nXZVWSfzxy1GpPD52eEa6lDI+sWC1zJ/XUlKpXTHNn9SekYe/XkhgqxEjtAjpTRSX\nFpL1Jmgk+l9QZpMGTBsdJs3r/+1BkCXzTYN8gPdsUtqY/pzpnFEX5Nu9RD8JOz/R\nh6Ip6lhhvWBG2p64ARLN4M6u/6tGo7Ju71/4DsLzfDxeGAE+f97PH+MWwbohU+Mp\nW1/2CanvF7w4w4kz/98nyXjVBx3pjEMjIeKdSWEP2BFqVCpye4S4NhthzwjiccyA\nGbhNEMr4euxD2SNc2/pSIpt3O9GxKja+wP/9FqBRQp/YwB1G9rYRsYUwj5hPAgMB\nAAGjQjBAMA4GA1UdDwEB/wQEAwICpDAPBgNVHRMBAf8EBTADAQH/MB0GA1UdDgQW\nBBSik5eTukMqthAUUeNEml7u80UZWzANBgkqhkiG9w0BAQsFAAOCAQEAaHE6DbqJ\nRWlSplObZfaUoFVdR5VOir/aOjy/td1+aJhcTqZAUIxvqiCk0qaSKsj2RLQMs87j\npkCCFl0E/9ezIv5LrrLbxOtSjbahMCpIQWWdrPUrc20hIn/9ExxgIMoWzGqkzFT8\nj0ZDIdBvfzGS0sB1j4VFVKzQLuiHt+5FnAVZ0NdEIDh3JHBv+8fcy+FdDye4AfMi\nc+cgK03sp8SC8rDNLAzbWjpO8Wi5cT91CNo7yXtwx+FH4+X+WgC6rR3DS9Pn2K1E\nCj3vPDEinyqrxhmoy0Yk6Ya/jWYc+TdM42mttNCO20gptX3iCTji04UpMkc6w1zc\n7hBkXrIHabSHvA==\n-----END CERTIFICATE-----",
+    "exp": 1738194231,
+    "fields": {
+        "ChargeAmps": {
+            "interval_seconds": 1
+        },
+        "DCChargingEnergyIn": {
+            "interval_seconds": 1
+        },
+        "GpsState": {
+            "interval_seconds": 2
+        },
+        "LongitudinalAcceleration": {
+            "interval_seconds": 3
+        }
+    },
+    "hostname": "app:4413"
+}
